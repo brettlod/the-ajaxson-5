@@ -1,0 +1,50 @@
+
+
+.jumbotron {
+	text-align: center;
+	margin-bottom: 1%;
+}
+
+.btn {
+	margin: 5%;
+
+}
+
+
+.col-md-5 {
+	color: inherit;
+	font-weight: normal;
+	font-family: sans-serif;
+	padding: 4%;
+	border-radius: 2px;
+	margin: 3%;
+	align-content: left;
+	align-items: left;
+	background-color: #eee;
+	border: 1px solid #ddd;
+
+}
+
+
+.col-md-12 {
+	font-weight: normal;
+	border-radius: 2px;
+
+
+}
+
+
+.id {
+	color: red;
+}
+
+.main-content {
+	color: gray;
+
+}
+
+p {
+	padding: 4%;
+	color: red;
+	border-color: red;
+}
